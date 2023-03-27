@@ -1,5 +1,4 @@
 import os 
-import json
 
 # Creates a full dictionary of all folder to files
 def create_dict(path):
