@@ -9,6 +9,5 @@ RCtrl::
 	return
 
 F23::
-	#singleInstance::false
     Run, "C:\Users\thoma\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\CreateWl-main\CreateWl-main\makeWl.py"
     return
